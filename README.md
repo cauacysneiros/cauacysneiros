@@ -5,7 +5,7 @@ Sou estudante de **Ciência da Computação** 💻
 
 - 🔭 Atualmente estou aprofundando meus conhecimentos em desenvolvimento de software e arquitetura de sistemas.
 - 🌱 Sempre estudando melhores práticas de código limpo, controle de versão e escalabilidade.
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/caua-cysneiros/) | [E-mail](mailto:cauajosemrc@gmail.com)
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/caua-cysneiros/) | [E-mail](mailto:cauajosemrc@gmail.com) | [Instagram](https://www.instagram.com/caua.jrms/)
 
 ### 🛠️ Tecnologias e Ferramentas
 
